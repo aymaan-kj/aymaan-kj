@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi there , my name is Mohamed Aymaan Zahir!
 
-<!--
-**aymaan-kj/aymaan-kj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Born and Raised in **Gaborone, Botswana** | 🎓 Studying at **The University of Sydney**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🔍 About Me  
+I am passionate about **data science and econometrics**, using data to uncover insights that drive **policy and business decision-making**. I enjoy creating **compelling visualizations** and crafting **engaging data reports** to communicate complex findings in a simple and effective way.  
+
+I love exploring the application of **machine learning, artificial intelligence, and statistical modelling** to solve real world problems!
+
+---
+
+### 💻 Skills & Tools  
+🔹 **Programming:** Python 🐍 | R 📊 | SQL 🗄️ | MATLAB 🔢  
+
+🔹 **Data Science & ML:** Pandas | Scikit-Learn | SHAP | CatBoost | Random Forest | Linear Regression | KNN
+
+🔹 **Visualisation:** Matplotlib | Seaborn | ggplot2 | Plotly | Leaflet
+
+🔹 **Databases & Querying:** PostgreSQL | MySQL  | PostGIS
+
+---
+
+### 🚀 My Most Recent Project
+🔹 **_League of Legends Match Prediction_** – Using **CatBoost** to analyze trends in player performance and predict match outcomes.  
+
+🔹 Exploring applications of data science to various fields.
+
+🔹 Improving my **data storytelling & visualization skills** to make data more accessible to non-technical audiences.  
+
+---
+
+### 📌 Interests  
+🎮 Gaming | 🏏 Watching Cricket | 📺 Watching TV Shows and Movies
+
+---
+
+### 📫 Get in Touch  
+📩 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mohamed-aymaan-zahir-8b8319268)! 
+
+
