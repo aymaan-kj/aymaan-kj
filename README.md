@@ -39,6 +39,6 @@ I love exploring the application of **machine learning, artificial intelligence,
 ---
 
 ### 📫 Get in Touch  
-📩 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mohamed-aymaan-zahir)! 
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-aymaan-zahir)! 
 
 
